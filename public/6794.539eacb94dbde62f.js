@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchasse_pwa_front=self.webpackChunkchasse_pwa_front||[]).push([[6794],{46794:(o,s,n)=>{n.r(s),n.d(s,{CalciteIcon:()=>t,defineCustomElement:()=>c});var e=n(25893);const t=e.I,c=e.d}}]);
